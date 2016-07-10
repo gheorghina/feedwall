@@ -3,9 +3,14 @@
 #git init the package 
     git init
     
+  
 #git commands
     https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html 
-	#other test
+    ctrl+c - to stop the execution of a process
+
+#git in azure
+    npm install azure-cli -g  
+    
 
 #Nice to have:
     1. Generate Code dynamic for event;
